@@ -1,6 +1,8 @@
 # food_recipe_ui
 
-A new Flutter project.
+A new Flutter project with Food recipe UI.
+
+<img src = 'Screenshot/food_recipe.png', width = '50px', alt-text = 'Food_recipe'>
 
 ## Getting Started
 
