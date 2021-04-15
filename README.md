@@ -2,7 +2,7 @@
 
 A new Flutter project with Food recipe UI.
 
-<img src = 'Screenshot/food_recipe.png', width = '50px'>
+<img src = "Screenshot/food_recipe.png", width = "50px">
 
 ## Getting Started
 
